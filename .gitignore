@@ -1,0 +1,16 @@
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local test artifacts / screenshots (may contain serial numbers)
+/work/
+/screenshots/
+screen*.png
+/*.png
